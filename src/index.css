@@ -9,8 +9,15 @@ table {
   border-collapse: collapse;
 }
 
+
+th {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
 td, th {
   border: 1px solid #eee;
   min-width: 50px;
   padding: 2px 4px;
+  text-align: center;
 }
